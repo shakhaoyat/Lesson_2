@@ -1,0 +1,1 @@
+print("chad is a \"good boy\" but lazy")
