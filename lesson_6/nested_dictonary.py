@@ -3,10 +3,11 @@ courses={
 
         "name":"c",
         "duration":4
-    }
+    },
+
 
     2:{
-        "name":"python"
+        "name":"python",
         "duration":7
     }
 }
