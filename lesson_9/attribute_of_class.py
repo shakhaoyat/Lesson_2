@@ -6,6 +6,8 @@ class Person:
 
 
 #method  create
+
+#methor means function inside a class
     def introduce(self):
         return "my name is {}".format(self.name)
 
@@ -25,6 +27,7 @@ print(person_two.gender)
 
 
 #methord call
+
 
 print(person_one.introduce())
 print(person_two.introduce())
